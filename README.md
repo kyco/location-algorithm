@@ -1,7 +1,12 @@
 location-algorithm
 ==================
 
-An algorithm to pinpoint the position of a SIM.
+An algorithm built in python to pinpoint the position of a SIM.
+
+The algorithm uses a triangulation method and a precision function to
+narrow down the position of a SIM to within a few meters. The location
+of the SIM is displayed in latitude and longitude.
+
 
 Support
 -------
