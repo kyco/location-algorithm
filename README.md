@@ -1,5 +1,5 @@
-location-algorithm
-==================
+kyco Location Algorithm
+=======================
 
 An algorithm built in python to pinpoint the position of a SIM.
 
